@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Environment Variables
+.env
+
+# Build Files
+dist/
+build/
+
+# Node Modules
+node_modules/
+
+# Cache
+.cache/
+
+# Temporary Files
+*.tmp
