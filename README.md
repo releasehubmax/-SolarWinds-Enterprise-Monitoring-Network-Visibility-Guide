@@ -183,29 +183,15 @@ The repository also discusses:
 
 ---
 
-## 📚 Educational Purpose
 
-This repository is intended for:
-
-- Educational research
-- IT infrastructure learning
-- Enterprise monitoring studies
-- Cybersecurity awareness
-- Network engineering practice
-
-No malware, unauthorized access tools, or harmful content are included.
-
----
 
 ## ⚠️ Disclaimer
 
 This repository provide full informational purposes only.
 
-The content focuses on enterprise monitoring technologies, infrastructure observability, and cybersecurity awareness. All trademarks and product names belong to their respective owners.
+The content focuses on enterprise monitoring technologies, infrastructure observability, and cybersecurity awareness. 
 
 This project does not provide malicious software, unauthorized access tools, or offensive security payloads.
-
----
 
 ---
 
