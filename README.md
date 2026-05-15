@@ -189,8 +189,6 @@ The repository also discusses:
 
 This repository provide full informational purposes only.
 
-The content focuses on enterprise monitoring technologies, infrastructure observability, and cybersecurity awareness. 
-
 This project does not provide malicious software, unauthorized access tools, or offensive security payloads.
 
 ---
