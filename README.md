@@ -215,12 +215,21 @@ Network Visibility Platform
 
 ## 📬 Contact & Support
 
-If you have questions, suggestions, or would like to collaborate on this project, you can reach me through:
-
 - Telegram: https://t.me/PTX_Dev
 - Email: devptx23@gmail.com (optional)
+How to Reach Me
 
-Looking forward to assist you!
+    Click the link above to send me a direct message on Telegram.
+    I am available to answer any questions regarding the software and provide guidance.
+    For urgent matters, mention 'URGENT' in your message to get a quicker response.
+
+Additional Information
+
+    Ensure you read the official documentation before reaching out.
+    Be respectful and concise in your inquiries.
+    Spamming or unrelated messages will be ignored.
+
+Looking forward to assisting you!
 
 ---
 
